@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **.Net Core** and AI
+- 🔭 I’m currently working on **.Net Core** and **AI**
 
 - 📝 I regularly write articles on [https://medium.com/@safakkca](https://medium.com/@safakkca)
 
